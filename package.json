@@ -1,0 +1,14 @@
+{
+  "name":"汕头潮阳海门莲花峰风景区",
+  "version":"1.0.0",
+  "main":"index.html",
+  "single-instance":true,
+  "window":{
+    "toolbar":false,
+    "position":"center",
+    "resizable":false,
+    "always-on-top":true,
+    "fullscreen":true,
+    "frame":false
+  }
+}
