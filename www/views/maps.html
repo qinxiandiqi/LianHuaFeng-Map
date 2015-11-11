@@ -1,0 +1,10 @@
+<div class="map-wrap">
+    <img class="rwdimgmap" id="index_map" width="1024" height="698" src="./images/lianhuafeng_map.png" alt="lianhuafeng" usemap="#lianhuafeng_map"/>
+    <map name="lianhuafeng_map" id="lianhuafeng_map">
+
+        <area ng-repeat="maps in mapsDB" shape="circle" coords="{{maps.coords}}" title="{{maps.name}}" href="#/view/{{maps.id}}" />
+
+    </map>
+
+
+</div>
