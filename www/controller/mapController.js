@@ -4,10 +4,10 @@
  */
 
 
-function mapController($scope){
+function mapController($scope,$timeout){
     $scope.mapsDB = mapsDB;
 
-    setTimeout(function(){
+    $timeout(function(){
         $(window).trigger('resize');
     },500)
 }
