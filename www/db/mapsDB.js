@@ -3,25 +3,25 @@ var mapsDB = [
         "id":0,
         "name":"古炮台",
         "coords":"86,149,25",
-        "detail":"<ul><li>古炮台111</li><li>古炮台2222</li><li>古炮台3333</li><li>古炮台4444</li><li>古炮台5555</li></ul>"
+        "detail":"<h1>古炮台</h1><p>此处为海门南炮台，亦称莲花炮台，位于莲花峰望夫石西北侧；明隆庆三年（公元1569年），驻潮阳参将金丹设立莲花营（也叫细柳营），曾于此地抗击倭寇。清康熙五十六年（公元1717年），为防御海盗，清政府建此炮台，由三合土筑成，呈半圆状，直径约25米，设把总一名（周围有营舍，久废）。原四尊大炮被毁于1958年；1997年景区管理处对炮台进行修葺，仿制四尊生铁大炮陈列其中，供游人观瞻。</p> <h1>The Ancient Fort</h1><p>The Ancient Fort refers to the South Fort of Haimen, which is also called “The Fort of Lotus”. It is Located to the northwest of  Husband-Expected Rock. In 1569, Ming general Jin Dan established Lotus Battalion, which was also called“Willow Battalion”, and resisted Japanese invaders while his troop stationed at Chaoyang,. In 1717, Qing government set up a fort in defense of piracy. The fort was built up of lime, sand and clay in the shape of a 25-meter-diametered semicircle. A commander with a camp of soldiers guarded it and now the deserted camps still can be seen around the fort. Although four original iron artilleries were destroyed in 1958, the fort was repaired in 1997, and four replicated iron artilleries are displayed for visitors.</p>"
     },
     {
         "id":1,
         "name":"丹心亭",
         "coords":"146,146, 25",
-        "detail":"丹心亭111"
+        "detail":"为纪念文天祥忠贞爱国的情操，根据其诗名“留以丹心照汗青”的名句，景区于1958年在中心花圃建造了“丹心亭”以纪念文天祥。"
     },
     {
         "id":2,
         "name":"观音像",
         "coords":"240,179,25",
-        "detail":"观音像"
+        "detail":"南海观世音菩萨圣像：位于狮肚观音堂现为海门镇里人陈希德先生、林宝莲女士伉俪发愿捐资兴建，佳龙石雕厂承制，占地约6000平方米朝南背北，于2011年农历二月十九日开工，六月十九日安立圣像，九月十九日竣工并开光，圣像高10.6米，由四块花岗岩巨石雕琢而成，其中圣像（一块）高6.6米，莲花座（一块）及波浪底座（二块）高4米，露天而供，耸立于海门湾狮首山水天云海之上，圣像慈眉慧眼，左手托杨柳净瓶，右手打吉祥手印，白襟飘动，妙相庄严，濒临南海波涛涌动，白莲安足，俨若观音菩萨从天而降，令瞻仰朝礼者顿生诚敬之心。"
     },
     {
         "id":3,
         "name":"望夫石",
         "coords":"102,230,25",
-        "detail":"望夫石"
+        "detail":"<h1>望夫石</h1><p>古代海上生产活动最为危险，加之没有天气预报，没有机械动力的渔船抗击风浪能力很差，每逢台风季节，此处便成了渔家女盼夫平安归来嘹望的地方。</p><h1>Expecting Husband Rock</h1><p>Husband-Expected Rock is the spot where fishmen’s wifes were expecting their husbands’ back home safely. In the ancient times, fishing at sea was one of the most dangerous way of living. For absence of weather forecasts and mechanical power, fishing boats were frequently struck by storms during the typhoon seasons.</p>"
     },
     {
         "id":4,
@@ -51,7 +51,7 @@ var mapsDB = [
         "id":8,
         "name":"海上碑林",
         "coords":"408,456,25",
-        "detail":"海上碑林"
+        "detail":"莲花峰风景区奇特的海岬角蛋石花岗岩地貌和海滨景观，景区利用这得天独厚的自然条件，2001年将国内有影响力的书法家书写的关于文天祥的精忠气节的作品近100幅刻于海滨礁石上，开辟了海上碑林。"
     },
     {
         "id":9,
