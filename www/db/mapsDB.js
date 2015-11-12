@@ -51,7 +51,7 @@ var mapsDB = [
         "id":8,
         "name":"海上碑林",
         "coords":"408,456,25",
-        "detail":'<img src="images/hsbl1.jpg" alt=""/><img src="images/hsbl2.jpg" alt=""/>'
+        "detail":'<img src="images/hsbl1.jpg" alt=""/><img src="images/hsbl2.jpg" alt=""/><p>莲花峰风景区奇特的海岬角蛋石花岗岩地貌和海滨景观，景区利用这得天独厚的自然条件，2001年将国内有影响力的书法家书写的关于文天祥的精忠气节的作品近100幅刻于海滨礁石上，开辟了海上碑林。</p>'
     },
     {
         "id":9,
