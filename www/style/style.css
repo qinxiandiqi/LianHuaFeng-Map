@@ -35,6 +35,8 @@ img[usemap] {
 #editer {
   height: 100%;
   padding: 40px 40px 60px 40px;
+  border-radius: 10px;
+  background: #FFF;
 }
 #editer .title {
   text-align: center;
@@ -42,13 +44,10 @@ img[usemap] {
   font-size: 30px;
 }
 #editer .infos {
-  padding: 20px;
+  padding: 0 20px;
   height: 100%;
   width: 100%;
-  background: #FFF;
-  border: 1px solid #f5f5f5;
   overflow-y: auto;
-  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
 }
 #fixed-title {
   position: fixed;
@@ -80,7 +79,16 @@ img[usemap] {
   outline: none;
 }
 #info-box * {
-  font-size: 1.7rem;
+  font-size: 2rem;
   padding: 0;
   margin: 0;
+}
+#info-box p {
+  padding: 8px;
+  text-indent: 2em;
+}
+#info-box img {
+  max-width: 100%;
+  float: left;
+  margin-bottom: 20px;
 }

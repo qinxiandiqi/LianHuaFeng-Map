@@ -3,6 +3,8 @@
  * Email: porzhang@gmail.com
  */
 
+var times;
+var OUT_TIME = 900000;
 var lhf = angular.module('lhf', ['ngRoute','ngSanitize','rwdImageMaps'])
 
 var lhfRouteConfig = function($routeProvider){
@@ -18,3 +20,6 @@ var lhfRouteConfig = function($routeProvider){
 }
 
 lhf.config(lhfRouteConfig)
+
+
+

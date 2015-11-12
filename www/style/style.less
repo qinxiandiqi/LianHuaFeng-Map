@@ -38,21 +38,22 @@ img[usemap] {
 #editer{
   height: 100%;
   padding: 40px 40px 60px 40px;
-  //border-radius: 10px;
+  border-radius: 10px;
   //background: rgb(251,251,243);
+  background: #FFF;
   .title{
     text-align: center;
     padding: 10px;
     font-size: 30px;
   }
   .infos{
-    padding: 20px;
+    padding:0 20px;
     height: 100%;
     width: 100%;
-    background: #FFF;
-    border: 1px solid #f5f5f5;
+    //background: #FFF;
+    //border: 1px solid #f5f5f5;
     overflow-y: auto;
-    box-shadow: 3px 3px 8px rgba(0,0,0,.2);
+    //box-shadow: 3px 3px 8px rgba(0,0,0,.2);
   }
 }
 
@@ -92,7 +93,16 @@ img[usemap] {
 }
 
 #info-box *{
-  font-size: 1.7rem;
+  font-size: 2rem;
   padding: 0;
   margin: 0;
+}
+#info-box p {
+  padding: 8px;
+  text-indent: 2em;
+}
+#info-box img{
+  max-width: 100%;
+  float: left;
+  margin-bottom: 20px;
 }
