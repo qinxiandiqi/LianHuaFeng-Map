@@ -41,6 +41,7 @@ li {
   -ms-flex-pack: center;
   -webkit-justify-content: center;
   justify-content: center;
+  padding: 20px;
 }
 img[usemap] {
   border: none;
