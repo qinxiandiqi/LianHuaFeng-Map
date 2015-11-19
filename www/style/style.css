@@ -42,6 +42,25 @@ li {
   justify-content: center;
   padding: 20px;
 }
+
+.map-title{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.title{
+  font-weight: 900;
+  font-size: 1.8em;
+  font-family: SimHei,KaiTiGB2312,KaiTi,NSimSun,YouYuan;
+  color: #88383B;
+}
+
+.remark{
+  float: left;
+  margin-top: 2px;
+  font-size: 0.8em;
+}
+
 img[usemap] {
   border: none;
   height: auto;
